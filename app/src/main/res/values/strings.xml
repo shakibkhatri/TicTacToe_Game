@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="tic_tac_toe_game">Tic Tac Toe Game</string>
+    <string name="app_id">ca-app-pub-8688970730971007~9588305040</string>
+    <string name="Banner_ad_unit_id">ca-app-pub-8688970730971007/7998524225</string>
+    <string name="reset">Reset</string>
+</resources>
